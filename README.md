@@ -1,4 +1,4 @@
-Getting-and-Cleaning-Data_Course-Project
+Getting and Cleaning Data: Course Project
 ========================================
 
 ## Downloading and Processing Activity Data
