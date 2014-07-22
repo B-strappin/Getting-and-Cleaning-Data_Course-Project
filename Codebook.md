@@ -7,25 +7,38 @@ The code explanation for the download and data processing is located in the READ
 The following are the columns and explanations for the "Part5\_dataset.csv" file that was created from the data processing script "run_analysis.R"
 
 "Column Name": Description
+
 "subject": The id of the subject
+
 "TimeDomainSignalofBodyAcceleration-MeanValue-X": Average Time Domain Signal of Body Acceleration Mean Value in the X direction
+
 "TimeDomainSignalofBodyAcceleration-MeanValue-Y": Average Time Domain Signal of the Body Acceleration Mean Value in the Y direction
+
 "TimeDomainSignalofBodyAcceleration-MeanValue-Z": Average Time Domain Signal of the Body Acceleration Mean Value in the Z direction
-"TimeDomainSignalofBodyAcceleration-StandardDeviation-X": Average 
-"TimeDomainSignalofBodyAcceleration-StandardDeviation-Y": Average 
-"TimeDomainSignalofBodyAcceleration-StandardDeviation-Z": Average 
-"TimeDomainSignalofGravityAcceleration-MeanValue-X": Average 
-"TimeDomainSignalofGravityAcceleration-MeanValue-Y": Average 
-"TimeDomainSignalofGravityAcceleration-MeanValue-Z": Average 
-"TimeDomainSignalofGravityAcceleration-StandardDeviation-X": Average 
-"TimeDomainSignalofGravityAcceleration-StandardDeviation-Y": Average 
-"TimeDomainSignalofGravityAcceleration-StandardDeviation-Z": Average 
-"TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-X": Average 
-"TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-Y": Average 
-"TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-Z": Average 
-"TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-X": Average 
-"TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-Y": Average 
-"TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-Z": Average 
+
+"TimeDomainSignalofBodyAcceleration-StandardDeviation-X": Average TimeDomainSignalofBodyAcceleration-StandardDeviation-X
+
+"TimeDomainSignalofBodyAcceleration-StandardDeviation-Y": Average TimeDomainSignalofBodyAcceleration-StandardDeviation-Y
+
+"TimeDomainSignalofBodyAcceleration-StandardDeviation-Z": Average TimeDomainSignalofBodyAcceleration-StandardDeviation-Z
+
+"TimeDomainSignalofGravityAcceleration-MeanValue-X": Average TimeDomainSignalofGravityAcceleration-MeanValue-X
+
+"TimeDomainSignalofGravityAcceleration-MeanValue-Y": Average TimeDomainSignalofGravityAcceleration-MeanValue-Y
+
+"TimeDomainSignalofGravityAcceleration-MeanValue-Z": Average TimeDomainSignalofGravityAcceleration-MeanValue-Z
+
+"TimeDomainSignalofGravityAcceleration-StandardDeviation-X": Average TimeDomainSignalofGravityAcceleration-StandardDeviation-X
+
+"TimeDomainSignalofGravityAcceleration-StandardDeviation-Y": Average TimeDomainSignalofGravityAcceleration-StandardDeviation-Y
+"TimeDomainSignalofGravityAcceleration-StandardDeviation-Z": Average TimeDomainSignalofGravityAcceleration-StandardDeviation-Z
+
+"TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-X": Average TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-X
+"TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-Y": Average TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-Y
+"TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-Z": Average TimeDomainSignalofBodyAccelerationJerkSignal-MeanValue-Z
+"TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-X": Average TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-X
+"TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-Y": Average TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-Y
+"TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-Z": Average TimeDomainSignalofBodyAccelerationJerkSignal-StandardDeviation-Z
 "TimeDomainSignalofBodyGyroscope-MeanValue-X": Average TimeDomainSignalofBodyGyroscope-MeanValue-X
 "TimeDomainSignalofBodyGyroscope-MeanValue-Y": Average TimeDomainSignalofBodyGyroscope-MeanValue-Y
 "TimeDomainSignalofBodyGyroscope-MeanValue-Z": Average TimeDomainSignalofBodyGyroscope-MeanValue-Z
