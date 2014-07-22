@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data_Course-Project
 ========================================
 
-# Downloading and Processing Activity Data
+## Downloading and Processing Activity Data
 
 The raw activity data, variable names and documentation are spread out between multiple folders and files. 
 
